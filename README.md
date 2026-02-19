@@ -5,7 +5,7 @@
 		   Computer Animation: Art & Design (2024) <br/></h1>
 		</div>
 		<div align="center">
-		  <h2> Maths to Magic and Visual Wizardry_Exploring the Procedural Creation of Islamic Geometrical Patterns in Houdini </h2> 
+		  <h2> Maths to Magic and Visual Wizardry: Exploring the Procedural Creation of Islamic Geometrical Patterns in Houdini </h2> 
 		  <h3> Georgia Sweeny </h3>
 		</div>
 	</body>
